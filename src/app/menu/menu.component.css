@@ -1,5 +1,5 @@
 .fs-16{
-    font-size: 16pt;
+    font-size: 20pt;
 }
 
 a{
@@ -8,4 +8,7 @@ a{
 
 .fa{
     color: black;
+}
+.mb-5{
+    margin-bottom: 50px;
 }
